@@ -6,7 +6,7 @@ import CollegeCard from './CollegeCard';
 const Colleges = () => {
     const [college,setCollege]=useState([])
   useEffect(() => {
-      axios.get('/public/colleges.json')
+      axios.get('https://unipath-server.vercel.app/colleges')
         .then(data => {
           const reduceData = data.data.slice(0, 6);
           setCollege(reduceData)

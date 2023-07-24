@@ -1,5 +1,4 @@
 [{
-    "id": 1,
     "name": "ABC University",
     "location": "City A, State A",
     "image":"https://i.ibb.co/hC5XV0K/architecture-independence-palace-ho-chi-minh-city.jpg",
@@ -16,11 +15,10 @@
     ],
     "admission_process": "Online application, entrance exam, and interview.",
     "research_history": "Founded a Research Center in 1995.",
-    "research_works": ["Study on Artificial Intelligence", "Climate Change Impact Analysis"],
+    "research_works": ["Study on Artificial Intelligence", "Climate Change Impact Analysis","Green Energy Solutions", "Social Impact Analysis"],
     "sports": ["Football", "Basketball", "Swimming"]
   },
   {
-    "id": 2,
     "name": "XYZ College",
     "location": "City B, State B",
     "image":"https://i.ibb.co/Q68YcZy/beautiful-country-house-modern-style.jpg",
@@ -37,11 +35,10 @@
     ],
     "admission_process": "Online application and merit-based selection.",
     "research_history": "Active in research partnerships with industry.",
-    "research_works": ["Green Energy Solutions", "Social Impact Analysis"],
+    "research_works": ["Green Energy Solutions","Social Impact Analysis","Green Energy Solutions"],
     "sports": ["Cricket", "Badminton", "Athletics"]
   },
   {
-    "id": 3,
     "name": "PQR Institute of Technology",
     "location": "City C, State C",
     "image":"https://i.ibb.co/h8hj78c/interested-dark-haired-girl-wears-casual-attire-chilling-park-near-university-using-laptop.jpg",
@@ -62,7 +59,6 @@
     "sports": ["Basketball", "Table Tennis", "Swimming"]
   },
   {
-    "id": 4,
     "name": "LMN College",
     "location": "City D, State D",
     "image":"https://i.ibb.co/yFnkWmS/happy-lady-casual-clothes-standing-grass-campus-background-university-building.jpg",
@@ -79,11 +75,10 @@
     ],
     "admission_process": "Merit-based admission with consideration of entrance exam scores.",
     "research_history": "Recognized for contributions to scientific research.",
-    "research_works": ["Quantum Mechanics", "Nanotechnology Applications"],
+    "research_works": ["Quantum Mechanics", "Nanotechnology Applications","Green Energy Solutions","Social Impact Analysis"],
     "sports": ["Athletics", "Chess", "Swimming"]
   },
   {
-    "id": 5,
     "name": "EFG Business School",
     "location": "City E, State E",
     "image":"https://i.ibb.co/7WW4V3p/red-buildings-households.jpg",
@@ -104,7 +99,6 @@
     "sports": ["Football", "Cricket", "Tennis"]
   },
   {
-    "id": 6,
     "name": "RST Medical College",
     "location": "City F, State F",
     "image":"https://i.ibb.co/jLyGqdW/hygeia-goddess-health-statue-raczynski-library-poznan-poland-people-background.jpg",
@@ -121,11 +115,10 @@
     ],
     "admission_process": "Entrance exam and counseling for medical courses.",
     "research_history": "Pioneering medical research and healthcare services.",
-    "research_works": ["Genome Sequencing", "Drug Development Studies"],
+    "research_works": ["Genome Sequencing", "Drug Development Studies","Green Energy Solutions","Social Impact Analysis","Green Energy Solutions","Social Impact Analysis"],
     "sports": ["Basketball", "Badminton", "Swimming"]
   },
   {
-    "id": 7,
     "name": "MNO Arts University",
     "location": "City G, State G",
     "image":"https://i.ibb.co/hC5XV0K/architecture-independence-palace-ho-chi-minh-city.jpg",
@@ -142,11 +135,10 @@
     ],
     "admission_process": "Portfolio review and aptitude test.",
     "research_history": "Prominent in artistic and cultural research.",
-    "research_works": ["Contemporary Art Analysis", "Cultural Heritage Preservation"],
+    "research_works": ["Contemporary Art Analysis", "Cultural Heritage Preservation","Green Energy Solutions","Social Impact Analysis","Green Energy Solutions","Social Impact Analysis"],
     "sports": ["Football", "Volleyball", "Swimming"]
   },
   {
-    "id": 8,
     "name": "UVW Law School",
     "location": "City H, State H",
     "image":"https://i.ibb.co/hC5XV0K/architecture-independence-palace-ho-chi-minh-city.jpg",
@@ -163,11 +155,10 @@
     ],
     "admission_process": "Law entrance exam and personal interview.",
     "research_history": "Leading research institute in legal studies.",
-    "research_works": ["Corporate Governance", "Criminal Justice Reforms"],
+    "research_works": ["Corporate Governance", "Criminal Justice Reforms","Green Energy Solutions","Social Impact Analysis"],
     "sports": ["Basketball", "Tennis", "Table Tennis"]
   },
   {
-    "id": 9,
     "name": "GHI University",
     "location": "City I, State I",
     "image":"https://i.ibb.co/7tzbHJ8/students-university-people-wearing-mantles-group-students.jpg",
@@ -188,7 +179,7 @@
     "sports": ["Cricket", "Volleyball", "Athletics"]
   },
   {
-    "id": 10,
+
     "name": "JKL Engineering College",
     "location": "City J, State J",
     "image":"https://i.ibb.co/hC5XV0K/architecture-independence-palace-ho-chi-minh-city.jpg",
@@ -205,11 +196,11 @@
     ],
     "admission_process": "Engineering entrance exam and counseling.",
     "research_history": "Leading research center in engineering disciplines.",
-    "research_works": ["Renewable Energy Solutions", "Smart Cities Development"],
+    "research_works": ["Renewable Energy Solutions", "Smart Cities Development","Green Energy Solutions"],
     "sports": ["Football", "Cricket", "Badminton"]
   },
   {
-    "id": 11,
+
     "name": "STU Institute of Science",
     "location": "City K, State K",
     "image":"https://i.ibb.co/7tzbHJ8/students-university-people-wearing-mantles-group-students.jpg",
@@ -230,7 +221,7 @@
     "sports": ["Basketball", "Volleyball", "Athletics"]
   },
   {
-    "id": 12,
+
     "name": "VWX Management Institute",
     "location": "City L, State L",
     "image":"https://i.ibb.co/7tzbHJ8/students-university-people-wearing-mantles-group-students.jpg",
@@ -247,11 +238,11 @@
     ],
     "admission_process": "Group discussion and personal interview.",
     "research_history": "Prominent in management and entrepreneurship research.",
-    "research_works": ["Strategic Management Practices", "Startup Ecosystem Analysis"],
+    "research_works": ["Strategic Management Practices", "Startup Ecosystem Analysis","Green Energy Solutions","Social Impact Analysis"],
     "sports": ["Football", "Basketball", "Badminton"]
   },
   {
-    "id": 13,
+
     "name": "NOP University",
     "location": "City M, State M",
     "image":"https://i.ibb.co/7tzbHJ8/students-university-people-wearing-mantles-group-students.jpg",
@@ -272,7 +263,7 @@
     "sports": ["Volleyball", "Tennis", "Swimming"]
   },
   {
-    "id": 14,
+
     "name": "QRS College of Education",
     "location": "City N, State N",
     "image":"https://i.ibb.co/hC5XV0K/architecture-independence-palace-ho-chi-minh-city.jpg",
@@ -293,7 +284,7 @@
     "sports": ["Cricket", "Football", "Table Tennis"]
   },
   {
-    "id": 15,
+
     "name": "TUV Technology University",
     "location": "City O, State O",
     "image":"https://i.ibb.co/hC5XV0K/architecture-independence-palace-ho-chi-minh-city.jpg",
@@ -310,11 +301,11 @@
     ],
     "admission_process": "Entrance exam and counseling for technology programs.",
     "research_history": "Leading research center in technology and computer science.",
-    "research_works": ["Artificial Intelligence Applications", "Big Data Analytics"],
+    "research_works": ["Artificial Intelligence Applications", "Big Data Analytics","Green Energy Solutions","Social Impact Analysis"],
     "sports": ["Basketball", "Football", "Swimming"]
   },
   {
-    "id": 16,
+
     "name": "WXY Medical University",
     "location": "City P, State P",
     "image":"https://i.ibb.co/hC5XV0K/architecture-independence-palace-ho-chi-minh-city.jpg",
@@ -335,7 +326,7 @@
     "sports": ["Basketball", "Badminton", "Swimming"]
   },
   {
-    "id": 17,
+
     "name": "ZAB College of Commerce",
     "location": "City Q, State Q",
     "image":"https://i.ibb.co/hC5XV0K/architecture-independence-palace-ho-chi-minh-city.jpg",
@@ -356,7 +347,7 @@
     "sports": ["Cricket", "Football", "Badminton"]
   },
   {
-    "id": 18,
+
     "name": "DEF Engineering Institute",
     "location": "City R, State R",
     "image":"https://i.ibb.co/hC5XV0K/architecture-independence-palace-ho-chi-minh-city.jpg",
@@ -373,11 +364,11 @@
     ],
     "admission_process": "Engineering entrance exam and counseling.",
     "research_history": "Leading research center in engineering disciplines.",
-    "research_works": ["Renewable Energy Solutions", "Process Optimization"],
+    "research_works": ["Renewable Energy Solutions", "Process Optimization","Green Energy Solutions","Social Impact Analysis"],
     "sports": ["Football", "Cricket", "Table Tennis"]
   },
   {
-    "id": 19,
+
     "name": "STU Institute of Architecture",
     "location": "City S, State S",
     "image":"https://i.ibb.co/hC5XV0K/architecture-independence-palace-ho-chi-minh-city.jpg",
@@ -398,7 +389,7 @@
     "sports": ["Table Tennis", "Volleyball", "Chess"]
   },
   {
-    "id": 20,
+
     "name": "KLM Business Academy",
     "location": "City T, State T",
     "image":"https://i.ibb.co/hC5XV0K/architecture-independence-palace-ho-chi-minh-city.jpg",

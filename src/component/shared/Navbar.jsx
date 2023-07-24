@@ -1,11 +1,11 @@
 import React, { useContext } from 'react';
 import { Link } from 'react-router-dom';
-// import { AuthContext } from '../AuthProvider/AuthProvider';
+
 import logo from '../../../public/logo.jpeg'
+import { AuthContext } from '../AuthProvider/AuthProvider';
 
 const Navbar = () => {
-    // const { user,logoutUser } = useContext();
-    const user='hasib'
+    const { user,logoutUser } = useContext(AuthContext);
 
     const handleLogout = () => {
         logoutUser()
@@ -40,7 +40,7 @@ const Navbar = () => {
                 {
                     user?<div className="navbar-end flex gap-4 text-white">
                     <div className='w-14'><img className='rounded-full' title={user.displayName} src={user.photoURL} alt="" /></div>
-    <Link onClick={handleLogout} className="button">Logout</Link>
+    <Link onClick={handleLogout} className="button-primary border-2">Logout</Link>
   </div>:<div className="navbar-end"><Link to={'/login'} className="btn">Login</Link></div>
                 }
 </div>

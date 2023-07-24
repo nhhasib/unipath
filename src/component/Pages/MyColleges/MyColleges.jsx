@@ -2,8 +2,8 @@ import React from 'react';
 
 const MyColleges = () => {
     return (
-        <div>
-            <h1>from My colleges </h1>
+        <div className='my-10'>
+            <h1 className='text-4xl font-bold text-center'>Your Selected Colleges Here</h1>
         </div>
     );
 };
